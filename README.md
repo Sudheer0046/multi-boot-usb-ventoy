@@ -97,7 +97,7 @@ To create a bootable USB drive supporting multiple operating systems using Vento
 
 
 ### Ventoy Screen After boot
-![Ventoy](ventoy%20screen.png)
+![Ventoy](Ventoy_screen.png)
 
 
 ## ✅ Conclusion
