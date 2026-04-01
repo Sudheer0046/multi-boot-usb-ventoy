@@ -1,6 +1,11 @@
 # multi-boot-usb-ventoy
 Multi-boot USB setup using Ventoy
 
+
+**I created a multi-boot USB using Ventoy which allows installing multiple operating systems like Windows and Ubuntu from a single USB.
+I configured Ventoy, added ISO files, and tested the boot process across different systems.**
+
+
 # Multi-Boot USB Creation Using Ventoy
 
 This project demonstrates how to create a multi-boot USB drive that allows installation of multiple operating systems (Windows 10, Windows 11, Ubuntu) from a single USB device.
