@@ -83,17 +83,22 @@ To create a bootable USB drive supporting multiple operating systems using Vento
 
 ## 📸 Screenshots
 
-![Boot](Boot_OS.png)
-
 
 ### Ubuntu Family 
 ![Ubuntu](Ubuntu.jpeg)
 
+
 ### Windows Family
 ![Windows](Windows.png)
 
+
+### Boot Pendrive
+![Boot](Boot_OS.png)
+
+
+
 ### Ventoy Screen After boot
-![Ventoy](VentoyAfterbootDisplay.png)
+![Ventoy](ventoy After boot Display.png)
 
 
 ## ✅ Conclusion
