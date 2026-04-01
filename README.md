@@ -81,6 +81,21 @@ To create a bootable USB drive supporting multiple operating systems using Vento
 
 ---
 
+## 📸 Screenshots
+
+### Boot Pendrive
+![Boot](Boot Pendrive.png)
+
+### Ubuntu
+![Ubuntu](Ubuntu.jpeg)
+
+### Windows
+![Windows](Windows.png)
+
+### Ventoy Screen After boot
+![Ventoy](Ventoy After boot Display.png)
+
+
 ## ✅ Conclusion
 Ventoy provides a simple and efficient way to create a multi-boot USB. It eliminates the need for repeated formatting and allows easy management of multiple OS installations.
 
